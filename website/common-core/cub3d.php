@@ -112,12 +112,12 @@ require(PATH . "utils/menu.php");
 						<div class="project-attachment-item">
 							<h4 class="attachment-name">
 								<span class="icon-file"></span>
-								<a target="_blank" href="https://github.com/rphlr/42-Subjects/">subject.pdf</a>
+								<a target="_blank" href="https://github.com/romanmikh/42-Subjects/">subject.pdf</a>
 								<span class="icon-file"></span>
-								<a target="_blank" href="https://github.com/rphlr/42-Subjects/"
+								<a target="_blank" href="https://github.com/romanmikh/42-Subjects/"
 									class="attachment-download">minilibx_opengl.tgz</a>
 								<span class="icon-file"></span>
-								<a target="_blank" href="https://github.com/rphlr/42-Subjects/"
+								<a target="_blank" href="https://github.com/romanmikh/42-Subjects/"
 									class="attachment-download">minilibx_mms_20200219_beta.tgz</a>
 							</h4>
 						</div>
@@ -603,7 +603,7 @@ require(PATH . "utils/menu.php");
 					</div>
 
 				</div>
-				<div class="scale-final-submit"><a href="https://github.com/rphlr/42-Evals">
+				<div class="scale-final-submit"><a href="https://github.com/romanmikh/42-Evals">
 						<input class="btn btn-primary btn-block font-weight-bold" type="button"
 							value="Give this repository a star. ⭐" /></a>
 				</div>

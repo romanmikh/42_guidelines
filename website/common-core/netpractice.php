@@ -104,13 +104,13 @@ require(PATH . "utils/menu.php");
 						<div class="project-attachment-item">
 							<h4 class="attachment-name">
 								<span class="icon-note-paper-2"></span>
-								<a target="_blank" href="https://github.com/rphlr/42-Subjects/">subject.pdf</a>
+								<a target="_blank" href="https://github.com/romanmikh/42-Subjects/">subject.pdf</a>
 							</h4>
 						</div>
 						<div class="project-attachment-item">
 							<h4 class="attachment-name">
 								<span class="icon-note-paper-2"></span>
-								<a target="_blank" href="https://github.com/rphlr/42-Subjects/">net_practice.1.4.tgz</a>
+								<a target="_blank" href="https://github.com/romanmikh/42-Subjects/">net_practice.1.4.tgz</a>
 							</h4>
 						</div>
 					</div>
@@ -415,7 +415,7 @@ require(PATH . "utils/menu.php");
 					</div>
 
 				</div>
-				<div class="scale-final-submit"><a href="https://github.com/rphlr/42-Evals">
+				<div class="scale-final-submit"><a href="https://github.com/romanmikh/42-Evals">
 						<input class="btn btn-primary btn-block font-weight-bold" type="button"
 							value="Give this repository a star. ⭐" /></a>
 				</div>

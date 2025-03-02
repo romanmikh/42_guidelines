@@ -48,9 +48,9 @@ if ($logged_in) {
 	$menu = [
 		'Home' => $prefix,
 		'Login Attempt Statistics' => $prefix . 'insights',
-		'Give this repository a star. ⭐' => 'https://github.com/rphlr/42-Evals',
-		'Follow me on github' => 'https://github.com/rphlr',
-		'Add me on LinkedIn' => 'https://www.linkedin.com/in/rphlr/',
+		'Give this repository a star. ⭐' => 'https://github.com/romanmikh/42-Evals',
+		'Follow me on github' => 'https://github.com/romanmikh',
+		'Add me on LinkedIn' => 'https://www.linkedin.com/in/romanmikh/',
 		'privacy policy' => $prefix . 'privacy'
 	];
 
@@ -61,9 +61,9 @@ if ($logged_in) {
 } else {
 	$menu = [
 		'Home' => $prefix,
-		'Give this repository a star. ⭐' => 'https://github.com/rphlr/42-Evals',
-		'Follow me on github' => 'https://github.com/rphlr',
-		'Add me on LinkedIn' => 'https://www.linkedin.com/in/rphlr/',
+		'Give this repository a star. ⭐' => 'https://github.com/romanmikh/42-Evals',
+		'Follow me on github' => 'https://github.com/romanmikh',
+		'Add me on LinkedIn' => 'https://www.linkedin.com/in/romanmikh/',
 		'privacy policy' => $prefix . 'privacy'
 	];
 }

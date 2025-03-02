@@ -93,7 +93,7 @@ require(PATH . "utils/menu.php");
 						<div class="project-attachment-item">
 							<h4 class="attachment-name">
 								<span class="icon-file"></span>
-								<a href="https://github.com/rphlr/42-Subjects/" target="_blank">subject.pdf</a>
+								<a href="https://github.com/romanmikh/42-Subjects/" target="_blank">subject.pdf</a>
 							</h4>
 						</div>
 					</div>
@@ -739,7 +739,7 @@ require(PATH . "utils/menu.php");
 					</label>
 				</div>
 			</div>
-			<div class="scale-final-submit"><a href="https://github.com/rphlr/42-Evals">
+			<div class="scale-final-submit"><a href="https://github.com/romanmikh/42-Evals">
 					<input class="btn btn-primary btn-block font-weight-bold" type="button"
 						value="Give this repository a star. ⭐" /></a>
 			</div>

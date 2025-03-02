@@ -658,7 +658,7 @@ require(PATH . "utils/menu.php");
 					</div>
 
 				</div>
-				<div class="scale-final-submit"><a href="https://github.com/rphlr/42-Evals">
+				<div class="scale-final-submit"><a href="https://github.com/romanmikh/42-Evals">
 						<input class="btn btn-primary btn-block font-weight-bold" type="button"
 							value="Give this repository a star. ⭐" /></a>
 				</div>
